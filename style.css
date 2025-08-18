@@ -1,0 +1,22 @@
+/* style.css */
+
+window {
+    background-color: #f7f9fc;
+}
+
+#messagetextview {
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+    padding: 10px;
+}
+
+.chat-history {
+    background-color: #f7f9fc;
+}
+
+.input-entry {
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding: 8px 15px;
+}
